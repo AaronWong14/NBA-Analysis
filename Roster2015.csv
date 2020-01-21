@@ -1,0 +1,995 @@
+,0
+0,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612737   2015       00       Jeff Teague   0        G    6-2    186   
+1   1610612737   2015       00      Paul Millsap   4        F    6-8    246   
+2   1610612737   2015       00  Tim Hardaway Jr.  10        G    6-6    205   
+3   1610612737   2015       00    Tiago Splitter  11      C-F   6-11    245   
+4   1610612737   2015       00      Kirk Hinrich  12        G    6-4    190   
+5   1610612737   2015       00   Lamar Patterson  13      G-F    6-5    225   
+6   1610612737   2015       00        Al Horford  15      C-F   6-10    245   
+7   1610612737   2015       00   Dennis Schroder  17        G    6-1    172   
+8   1610612737   2015       00       Edy Tavares  22        C    7-3    260   
+9   1610612737   2015       00     Kent Bazemore  24      F-G    6-5    201   
+10  1610612737   2015       00   Thabo Sefolosha  25        F    6-7    220   
+11  1610612737   2015       00       Kyle Korver  26        G    6-7    212   
+12  1610612737   2015       00      Mike Muscala  31      F-C   6-11    240   
+13  1610612737   2015       00        Mike Scott  32        F    6-8    237   
+14  1610612737   2015       00    Kris Humphries  43        F    6-9    235   
+
+      BIRTH_DATE   AGE EXP              SCHOOL  PLAYER_ID  
+0   JUN 10, 1988  28.0   6         Wake Forest     201952  
+1   FEB 10, 1985  31.0   9      Louisiana Tech     200794  
+2   MAR 16, 1992  24.0   2            Michigan     203501  
+3   JAN 01, 1985  31.0   5    Blumenau, Brazil     201168  
+4   JAN 02, 1981  35.0  12              Kansas       2550  
+5   AUG 12, 1991  24.0   R          Pittsburgh     203934  
+6   JUN 03, 1986  30.0   8             Florida     201143  
+7   SEP 15, 1993  22.0   2             Germany     203471  
+8   MAR 22, 1992  24.0   R                None     204002  
+9   JUL 01, 1989  26.0   3        Old Dominion     203145  
+10  MAY 02, 1984  32.0   9  Vevey, Switzerland     200757  
+11  MAR 17, 1981  35.0  12           Creighton       2594  
+12  JUL 01, 1991  24.0   2            Bucknell     203488  
+13  JUL 16, 1988  27.0   3            Virginia     203118  
+14  FEB 06, 1985  31.0  11           Minnesota       2743  "
+1,"        TeamID SEASON LeagueID           PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612738   2015       00    Avery Bradley   0        G    6-2    180   
+1   1610612738   2015       00    Isaiah Thomas   4        G    5-9    185   
+2   1610612738   2015       00  Jared Sullinger   7      C-F    6-9    260   
+3   1610612738   2015       00    Jonas Jerebko   8        F   6-10    231   
+4   1610612738   2015       00      Evan Turner  11      G-F    6-7    220   
+5   1610612738   2015       00     Terry Rozier  12        G    6-2    190   
+6   1610612738   2015       00      James Young  13      G-F    6-6    215   
+7   1610612738   2015       00        RJ Hunter  28        G    6-5    185   
+8   1610612738   2015       00     John Holland  30      G-F    6-5    205   
+9   1610612738   2015       00     Marcus Smart  36        G    6-4    220   
+10  1610612738   2015       00     Kelly Olynyk  41      C-F    7-0    238   
+11  1610612738   2015       00     Tyler Zeller  44      C-F    7-0    253   
+12  1610612738   2015       00    Jordan Mickey  55        F    6-8    235   
+13  1610612738   2015       00     Amir Johnson  90        F    6-9    240   
+14  1610612738   2015       00      Jae Crowder  99        F    6-6    235   
+
+      BIRTH_DATE   AGE EXP                        SCHOOL  PLAYER_ID  
+0   NOV 26, 1990  25.0   5                         Texas     202340  
+1   FEB 07, 1989  27.0   4                    Washington     202738  
+2   MAR 04, 1992  24.0   3                    Ohio State     203096  
+3   MAR 02, 1987  29.0   5                 Kinna, Sweden     201973  
+4   OCT 27, 1988  27.0   5                    Ohio State     202323  
+5   MAR 17, 1994  22.0   R                    Louisville    1626179  
+6   AUG 16, 1995  20.0   1                      Kentucky     203923  
+7   OCT 24, 1993  22.0   R                 Georgia State    1626154  
+8   NOV 06, 1988  27.0   R                     Boston U.     204066  
+9   MAR 06, 1994  22.0   1                Oklahoma State     203935  
+10  APR 19, 1991  25.0   2                       Gonzaga     203482  
+11  JAN 17, 1990  26.0   3                North Carolina     203092  
+12  JUL 09, 1994  21.0   R               Louisiana State    1626175  
+13  MAY 01, 1987  29.0  10  Westchester HS (Los Angeles)     101161  
+14  JUL 06, 1990  25.0   3                     Marquette     203109  "
+2,"        TeamID SEASON LeagueID                   PLAYER NUM POSITION HEIGHT  \
+0   1610612751   2015       00             Shane Larkin   0        G   5-11   
+1   1610612751   2015       00         Chris McCullough   1        F   6-11   
+2   1610612751   2015       00             Jarrett Jack   2        G    6-3   
+3   1610612751   2015       00          Sean Kilpatrick   6        G    6-4   
+4   1610612751   2015       00           Sergey Karasev  10      G-F    6-7   
+5   1610612751   2015       00              Brook Lopez  11        C    7-0   
+6   1610612751   2015       00               Henry Sims  14      C-F   6-10   
+7   1610612751   2015       00             Donald Sloan  15        G    6-3   
+8   1610612751   2015       00          Wayne Ellington  21        G    6-4   
+9   1610612751   2015       00             Markel Brown  22        G    6-3   
+10  1610612751   2015       00  Rondae Hollis-Jefferson  24      G-F    6-7   
+11  1610612751   2015       00           Thaddeus Young  30        F    6-8   
+12  1610612751   2015       00              Willie Reed  33      F-C   6-10   
+13  1610612751   2015       00          Thomas Robinson  41        F   6-10   
+14  1610612751   2015       00         Bojan Bogdanovic  44      G-F    6-8   
+
+   WEIGHT    BIRTH_DATE   AGE EXP          SCHOOL  PLAYER_ID  
+0     175  OCT 02, 1992  23.0   2      Miami (FL)     203499  
+1     200  FEB 05, 1995  21.0   R        Syracuse    1626191  
+2     200  OCT 28, 1983  32.0  10    Georgia Tech     101127  
+3     219  JAN 06, 1990  26.0   1      Cincinnati     203930  
+4     208  OCT 26, 1993  22.0   2          Russia     203508  
+5     275  APR 01, 1988  28.0   7        Stanford     201572  
+6     248  MAR 27, 1990  26.0   3      Georgetown     203156  
+7     205  JAN 15, 1988  28.0   4       Texas A&M     202388  
+8     200  NOV 29, 1987  28.0   6  North Carolina     201961  
+9     190  JAN 29, 1992  24.0   1  Oklahoma State     203900  
+10    220  JAN 03, 1995  21.0   R         Arizona    1626178  
+11    221  JUN 21, 1988  28.0   8    Georgia Tech     201152  
+12    220  MAY 16, 1990  26.0   R     Saint Louis     203186  
+13    237  MAR 17, 1991  25.0   3          Kansas     203080  
+14    216  APR 18, 1989  27.0   1            None     202711  "
+3,"        TeamID SEASON LeagueID                  PLAYER NUM POSITION HEIGHT  \
+0   1610612766   2015       00           Spencer Hawes  00      F-C    7-1   
+1   1610612766   2015       00            Courtney Lee   1        G    6-5   
+2   1610612766   2015       00         Marvin Williams   2        F    6-9   
+3   1610612766   2015       00             Jeremy Lamb   3        G    6-5   
+4   1610612766   2015       00           Nicolas Batum   5      G-F    6-8   
+5   1610612766   2015       00              Jeremy Lin   7        G    6-3   
+6   1610612766   2015       00          Aaron Harrison   9        G    6-6   
+7   1610612766   2015       00         Jorge Gutierrez  12        G    6-3   
+8   1610612766   2015       00  Michael Kidd-Gilchrist  14        F    6-7   
+9   1610612766   2015       00            Kemba Walker  15        G    6-1   
+10  1610612766   2015       00            Al Jefferson  25        C   6-10   
+11  1610612766   2015       00            Troy Daniels  30        G    6-4   
+12  1610612766   2015       00             Cody Zeller  40      C-F    7-0   
+13  1610612766   2015       00          Frank Kaminsky  44        C    7-0   
+14  1610612766   2015       00        Tyler Hansbrough  50        F    6-9   
+
+   WEIGHT    BIRTH_DATE   AGE EXP                 SCHOOL  PLAYER_ID  
+0     245  APR 28, 1988  28.0   8             Washington     201150  
+1     200  OCT 03, 1985  30.0   7       Western Kentucky     201584  
+2     237  JUN 19, 1986  30.0  10         North Carolina     101107  
+3     185  MAY 30, 1992  24.0   3            Connecticut     203087  
+4     200  DEC 14, 1988  27.0   7        Lisieux, France     201587  
+5     200  AUG 23, 1988  27.0   5                Harvard     202391  
+6     210  OCT 28, 1994  21.0   R               Kentucky    1626151  
+7     189  DEC 27, 1988  27.0   2    California-Berkeley     203268  
+8     232  SEP 26, 1993  22.0   3               Kentucky     203077  
+9     184  MAY 08, 1990  26.0   4            Connecticut     202689  
+10    289  JAN 04, 1985  31.0  11       Prentiss HS (MS)       2744  
+11    205  JUL 15, 1991  24.0   2  Virginia Commonwealth     203584  
+12    240  OCT 05, 1992  23.0   2                Indiana     203469  
+13    240  APR 04, 1993  23.0   R              Wisconsin    1626163  
+14    250  NOV 03, 1985  30.0   6         North Carolina     201946  "
+4,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612741   2015       00       Aaron Brooks   0        G    6-0    161   
+1   1610612741   2015       00       Derrick Rose   1        G    6-3    190   
+2   1610612741   2015       00     Doug McDermott   3        F    6-8    225   
+3   1610612741   2015       00       Bobby Portis   5        F   6-11    230   
+4   1610612741   2015       00  Cristiano Felicio   6      F-C   6-10    275   
+5   1610612741   2015       00     Justin Holiday   7        G    6-6    185   
+6   1610612741   2015       00  Spencer Dinwiddie   8        G    6-6    200   
+7   1610612741   2015       00        Joakim Noah  13        C   6-11    232   
+8   1610612741   2015       00          Pau Gasol  16      C-F    7-0    250   
+9   1610612741   2015       00         Tony Snell  20        F    6-7    200   
+10  1610612741   2015       00       Jimmy Butler  21      G-F    6-7    220   
+11  1610612741   2015       00         Taj Gibson  22        F    6-9    225   
+12  1610612741   2015       00      Mike Dunleavy  34      G-F    6-9    230   
+13  1610612741   2015       00   Cameron Bairstow  41      F-C    6-9    250   
+14  1610612741   2015       00     Nikola Mirotic  44        F   6-10    220   
+15  1610612741   2015       00      E'Twaun Moore  55        G    6-4    191   
+
+      BIRTH_DATE   AGE EXP               SCHOOL  PLAYER_ID  
+0   JAN 14, 1985  31.0   7               Oregon     201166  
+1   OCT 04, 1988  27.0   6              Memphis     201565  
+2   JAN 03, 1992  24.0   1            Creighton     203926  
+3   FEB 10, 1995  21.0   R             Arkansas    1626171  
+4   JUL 07, 1992  23.0   R                 None    1626245  
+5   APR 05, 1989  27.0   2           Washington     203200  
+6   APR 06, 1993  23.0   1             Colorado     203915  
+7   FEB 25, 1985  31.0   8              Florida     201149  
+8   JUL 06, 1980  35.0  14     Barcelona, Spain       2200  
+9   NOV 10, 1991  24.0   2           New Mexico     203503  
+10  SEP 14, 1989  26.0   4            Marquette     202710  
+11  JUN 24, 1985  31.0   6  Southern California     201959  
+12  SEP 15, 1980  35.0  13                 Duke       2399  
+13  DEC 07, 1990  25.0   1           New Mexico     203946  
+14  FEB 11, 1991  25.0   1                 None     202703  
+15  FEB 25, 1989  27.0   4               Purdue     202734  "
+5,"        TeamID SEASON LeagueID               PLAYER NUM POSITION HEIGHT  \
+0   1610612739   2015       00           Kevin Love   0        F   6-10   
+1   1610612739   2015       00          James Jones   1      G-F    6-8   
+2   1610612739   2015       00         Kyrie Irving   2        G    6-3   
+3   1610612739   2015       00        Iman Shumpert   4        G    6-5   
+4   1610612739   2015       00             JR Smith   5      G-F    6-6   
+5   1610612739   2015       00  Matthew Dellavedova   8        G    6-4   
+6   1610612739   2015       00        Channing Frye   9        F   6-11   
+7   1610612739   2015       00         Jordan McRae  12        G    6-5   
+8   1610612739   2015       00     Tristan Thompson  13      C-F    6-9   
+9   1610612739   2015       00           Sasha Kaun  14        C   6-11   
+10  1610612739   2015       00       Timofey Mozgov  20        C    7-1   
+11  1610612739   2015       00         LeBron James  23        F    6-8   
+12  1610612739   2015       00    Richard Jefferson  24        F    6-7   
+13  1610612739   2015       00        Dahntay Jones  30      G-F    6-6   
+14  1610612739   2015       00          Mo Williams  52        G    6-1   
+
+   WEIGHT    BIRTH_DATE   AGE EXP                        SCHOOL  PLAYER_ID  
+0     251  SEP 07, 1988  27.0   7                          UCLA     201567  
+1     218  OCT 04, 1980  35.0  12                    Miami (FL)       2592  
+2     193  MAR 23, 1992  24.0   4                          Duke     202681  
+3     220  JUN 26, 1990  26.0   4                  Georgia Tech     202697  
+4     225  SEP 09, 1985  30.0  11      St. Benedict's Prep (NJ)       2747  
+5     198  SEP 08, 1990  25.0   2             Saint Mary's (CA)     203521  
+6     255  MAY 17, 1983  33.0   9                       Arizona     101112  
+7     179  MAR 28, 1991  25.0   R                     Tennessee     203895  
+8     238  MAR 13, 1991  25.0   4                         Texas     202684  
+9     260  MAY 08, 1985  31.0   R                        Kansas     201619  
+10    275  JUL 16, 1986  29.0   5        St. Petersburg, Russia     202389  
+11    250  DEC 30, 1984  31.0  12  St. Vincent-St. Mary HS (OH)       2544  
+12    233  JUN 21, 1980  36.0  14                       Arizona       2210  
+13    225  DEC 27, 1980  35.0  11                          Duke       2563  
+14    198  DEC 19, 1982  33.0  12                       Alabama       2590  "
+6,"        TeamID SEASON LeagueID              PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612742   2015       00     Justin Anderson   1      G-F    6-6    228   
+1   1610612742   2015       00      Raymond Felton   2        G    6-1    205   
+2   1610612742   2015       00  Charlie Villanueva   3        F   6-11    232   
+3   1610612742   2015       00          J.J. Barea   5        G    6-0    185   
+4   1610612742   2015       00       Dwight Powell   7      F-C   6-11    240   
+5   1610612742   2015       00      Deron Williams   8        G    6-3    200   
+6   1610612742   2015       00        JaVale McGee  11        C    7-0    270   
+7   1610612742   2015       00        Jeremy Evans  21        F    6-9    200   
+8   1610612742   2015       00     Wesley Matthews  23      G-F    6-5    220   
+9   1610612742   2015       00    Chandler Parsons  25        F   6-10    230   
+10  1610612742   2015       00       Zaza Pachulia  27        C   6-11    275   
+11  1610612742   2015       00        Devin Harris  34        G    6-3    185   
+12  1610612742   2015       00       Dirk Nowitzki  41        F    7-0    245   
+13  1610612742   2015       00           David Lee  42      F-C    6-9    245   
+14  1610612742   2015       00         Salah Mejri  50        C    7-2    245   
+
+      BIRTH_DATE   AGE EXP             SCHOOL  PLAYER_ID  
+0   NOV 19, 1993  22.0   R           Virginia    1626147  
+1   JUN 26, 1984  32.0  10     North Carolina     101109  
+2   AUG 24, 1984  31.0  10        Connecticut     101111  
+3   JUN 26, 1984  32.0   9       Northeastern     200826  
+4   JUL 20, 1991  24.0   1           Stanford     203939  
+5   JUN 26, 1984  32.0  10           Illinois     101114  
+6   JAN 19, 1988  28.0   7             Nevada     201580  
+7   OCT 24, 1987  28.0   5   Western Kentucky     202379  
+8   OCT 14, 1986  29.0   6          Marquette     202083  
+9   OCT 25, 1988  27.0   4            Florida     202718  
+10  FEB 10, 1984  32.0  12   Tbilisi, Georgia       2585  
+11  FEB 27, 1983  33.0  11          Wisconsin       2734  
+12  JUN 19, 1978  38.0  17  Wurzburg, Germany       1717  
+13  APR 29, 1983  33.0  10            Florida     101135  
+14  JUN 15, 1986  30.0   R               None    1626257  "
+7,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612743   2015       00     Darrell Arthur  00        F    6-9    235   
+1   1610612743   2015       00    Emmanuel Mudiay   0        G    6-5    200   
+2   1610612743   2015       00      Jameer Nelson   1        G    6-0    190   
+3   1610612743   2015       00        Mike Miller   3      G-F    6-8    218   
+4   1610612743   2015       00        Will Barton   5      F-G    6-6    175   
+5   1610612743   2015       00       Axel Toupane   6      G-F    6-7    210   
+6   1610612743   2015       00   Danilo Gallinari   8        F   6-10    225   
+7   1610612743   2015       00     JaKarr Sampson   9      G-F    6-9    214   
+8   1610612743   2015       00      D.J. Augustin  12        G    6-0    183   
+9   1610612743   2015       00        Gary Harris  14        G    6-4    210   
+10  1610612743   2015       00       Nikola Jokic  15        C   6-10    250   
+11  1610612743   2015       00    Wilson Chandler  21        F    6-8    225   
+12  1610612743   2015       00       Jusuf Nurkic  23        C    7-0    280   
+13  1610612743   2015       00     Kenneth Faried  35        F    6-8    228   
+14  1610612743   2015       00  Joffrey Lauvergne  77      C-F   6-11    220   
+
+      BIRTH_DATE   AGE EXP                        SCHOOL  PLAYER_ID  
+0   MAR 25, 1988  28.0   6                        Kansas     201589  
+1   MAR 05, 1996  20.0   R                          None    1626144  
+2   FEB 09, 1982  34.0  11                Saint Joseph's       2749  
+3   FEB 19, 1980  36.0  15                       Florida       2034  
+4   JAN 06, 1991  25.0   3                       Memphis     203115  
+5   JUL 23, 1992  23.0   R                          None    1626253  
+6   AUG 08, 1988  27.0   6  Sant'Angelo Lodigiano, Italy     201568  
+7   MAR 20, 1993  23.0   1               St. John's (NY)     203960  
+8   NOV 10, 1987  28.0   7                         Texas     201571  
+9   SEP 14, 1994  21.0   1                Michigan State     203914  
+10  FEB 19, 1995  21.0   R                          None     203999  
+11  MAY 10, 1987  29.0   8                        DePaul     201163  
+12  AUG 23, 1994  21.0   1                          None     203994  
+13  NOV 19, 1989  26.0   4                Morehead State     202702  
+14  SEP 30, 1991  24.0   1                          None     203530  "
+8,"        TeamID SEASON LeagueID                    PLAYER NUM POSITION HEIGHT  \
+0   1610612765   2015       00            Andre Drummond   0        C   6-11   
+1   1610612765   2015       00            Reggie Jackson   1        G    6-3   
+2   1610612765   2015       00  Kentavious Caldwell-Pope   5        G    6-5   
+3   1610612765   2015       00           Darrun Hilliard   6        F    6-6   
+4   1610612765   2015       00           Stanley Johnson   7        F    6-7   
+5   1610612765   2015       00         Spencer Dinwiddie   8        G    6-6   
+6   1610612765   2015       00               Aron Baynes  12      C-F   6-10   
+7   1610612765   2015       00             Marcus Morris  13        F    6-9   
+8   1610612765   2015       00             Lorenzo Brown  17        G    6-5   
+9   1610612765   2015       00               Jodie Meeks  20        G    6-4   
+10  1610612765   2015       00               Steve Blake  22        G    6-3   
+11  1610612765   2015       00            Reggie Bullock  25        F    6-7   
+12  1610612765   2015       00             Tobias Harris  34        F    6-9   
+13  1610612765   2015       00          Cameron Bairstow  41      F-C    6-9   
+14  1610612765   2015       00          Anthony Tolliver  43        F    6-8   
+15  1610612765   2015       00              Joel Anthony  50        C    6-9   
+
+   WEIGHT    BIRTH_DATE   AGE EXP                SCHOOL  PLAYER_ID  
+0     279  AUG 10, 1993  22.0   3           Connecticut     203083  
+1     208  APR 16, 1990  26.0   4        Boston College     202704  
+2     205  FEB 18, 1993  23.0   2               Georgia     203484  
+3     205  APR 13, 1993  23.0   R             Villanova    1626199  
+4     245  MAY 29, 1996  20.0   R               Arizona    1626169  
+5     200  APR 06, 1993  23.0   1              Colorado     203915  
+6     260  DEC 09, 1986  29.0   3      Washington State     203382  
+7     235  SEP 02, 1989  26.0   4                Kansas     202694  
+8     189  AUG 26, 1990  25.0   2  North Carolina State     203485  
+9     210  AUG 21, 1987  28.0   6              Kentucky     201975  
+10    172  FEB 26, 1980  36.0  12              Maryland       2581  
+11    205  MAR 16, 1991  25.0   2        North Carolina     203493  
+12    235  JUL 15, 1992  23.0   4             Tennessee     202699  
+13    250  DEC 07, 1990  25.0   1            New Mexico     203946  
+14    240  JUN 01, 1985  31.0   7             Creighton     201229  
+15    245  AUG 09, 1982  33.0   8      Nevada-Las Vegas     201202  "
+9,"        TeamID SEASON LeagueID                PLAYER NUM POSITION HEIGHT  \
+0   1610612744   2015       00          Brandon Rush   4      F-G    6-6   
+1   1610612744   2015       00     Marreese Speights   5      F-C   6-10   
+2   1610612744   2015       00        Andre Iguodala   9      G-F    6-6   
+3   1610612744   2015       00         Klay Thompson  11        G    6-7   
+4   1610612744   2015       00          Andrew Bogut  12        C    7-0   
+5   1610612744   2015       00      Anderson Varejao  18        F   6-11   
+6   1610612744   2015       00       Leandro Barbosa  19        G    6-3   
+7   1610612744   2015       00  James Michael McAdoo  20        F    6-9   
+8   1610612744   2015       00             Ian Clark  21        G    6-3   
+9   1610612744   2015       00        Draymond Green  23        F    6-7   
+10  1610612744   2015       00         Stephen Curry  30        G    6-3   
+11  1610612744   2015       00          Festus Ezeli  31        C   6-11   
+12  1610612744   2015       00      Shaun Livingston  34        G    6-7   
+13  1610612744   2015       00          Kevon Looney  36        F    6-9   
+14  1610612744   2015       00       Harrison Barnes  40        F    6-8   
+
+   WEIGHT    BIRTH_DATE   AGE EXP                  SCHOOL  PLAYER_ID  
+0     220  JUL 07, 1985  30.0   7                  Kansas     201575  
+1     255  AUG 04, 1987  28.0   7                 Florida     201578  
+2     215  JAN 28, 1984  32.0  11                 Arizona       2738  
+3     215  FEB 08, 1990  26.0   4        Washington State     202691  
+4     260  NOV 28, 1984  31.0  10                    Utah     101106  
+5     273  SEP 28, 1982  33.0  11    Santa Teresa, Brazil       2760  
+6     194  NOV 28, 1982  33.0  12       Sau Paulo, Brazil       2571  
+7     240  JAN 04, 1993  23.0   1          North Carolina     203949  
+8     175  MAR 07, 1991  25.0   2                 Belmont     203546  
+9     230  MAR 04, 1990  26.0   3          Michigan State     203110  
+10    190  MAR 14, 1988  28.0   6                Davidson     201939  
+11    265  OCT 21, 1989  26.0   2              Vanderbilt     203105  
+12    192  SEP 11, 1985  30.0  10  Peoria Central HS (IL)       2733  
+13    220  FEB 06, 1996  20.0   R                    UCLA    1626172  
+14    225  MAY 30, 1992  24.0   3          North Carolina     203084  "
+10,"        TeamID SEASON LeagueID              PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612745   2015       00    Andrew Goudelock   0        G    6-3    200   
+1   1610612745   2015       00        Trevor Ariza   1        F    6-8    215   
+2   1610612745   2015       00    Patrick Beverley   2        G    6-1    185   
+3   1610612745   2015       00          Josh Smith   5        F    6-9    225   
+4   1610612745   2015       00      Terrence Jones   6        F    6-9    252   
+5   1610612745   2015       00          Sam Dekker   7        F    6-9    230   
+6   1610612745   2015       00     Michael Beasley   8        F   6-10    235   
+7   1610612745   2015       00       Dwight Howard  12        C   6-11    265   
+8   1610612745   2015       00        James Harden  13        G    6-5    220   
+9   1610612745   2015       00        Clint Capela  15      F-C   6-10    240   
+10  1610612745   2015       00  Donatas Motiejunas  20      F-C    7-0    222   
+11  1610612745   2015       00         Jason Terry  31        G    6-2    185   
+12  1610612745   2015       00        KJ McDaniels  32      G-F    6-6    205   
+13  1610612745   2015       00        Corey Brewer  33      G-F    6-9    186   
+14  1610612745   2015       00    Montrezl Harrell  35        F    6-8    240   
+
+      BIRTH_DATE   AGE EXP                             SCHOOL  PLAYER_ID  
+0   DEC 07, 1988  27.0   2              College of Charleston     202726  
+1   JUN 30, 1985  31.0  11                               UCLA       2772  
+2   JUL 12, 1988  27.0   3                           Arkansas     201976  
+3   DEC 05, 1985  30.0  11              Oak Hill Academy (VA)       2746  
+4   JAN 09, 1992  24.0   3                           Kentucky     203093  
+5   MAY 08, 1994  22.0   R                          Wisconsin    1626155  
+6   JAN 09, 1989  27.0   7                       Kansas State     201563  
+7   DEC 08, 1985  30.0  11  SW Atlanta Christian Academy (GA)       2730  
+8   AUG 26, 1989  26.0   6                      Arizona State     201935  
+9   MAY 18, 1994  22.0   1                               None     203991  
+10  SEP 20, 1990  25.0   3                  Kaunas, Lithuania     202700  
+11  SEP 15, 1977  38.0  16                            Arizona       1891  
+12  FEB 09, 1993  23.0   1                            Clemson     203909  
+13  MAR 05, 1986  30.0   8                            Florida     201147  
+14  JAN 26, 1994  22.0   R                         Louisville    1626149  "
+11,"        TeamID SEASON LeagueID              PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612754   2015       00            CJ Miles   0      F-G    6-6    231   
+1   1610612754   2015       00           Joe Young   1        G    6-2    180   
+2   1610612754   2015       00      Rodney Stuckey   2        G    6-5    205   
+3   1610612754   2015       00         George Hill   3        G    6-3    188   
+4   1610612754   2015       00         Lavoy Allen   5      F-C    6-9    255   
+5   1610612754   2015       00           Ty Lawson  10        G   5-11    195   
+6   1610612754   2015       00         Monta Ellis  11        G    6-3    185   
+7   1610612754   2015       00         Paul George  13        F    6-9    220   
+8   1610612754   2015       00    Rakeem Christmas  25        F    6-9    250   
+9   1610612754   2015       00         Jordan Hill  27        C   6-10    235   
+10  1610612754   2015       00         Ian Mahinmi  28        C   6-11    250   
+11  1610612754   2015       00        Myles Turner  33      F-C   6-11    243   
+12  1610612754   2015       00  Glenn Robinson III  40      G-F    6-7    222   
+13  1610612754   2015       00  Shayne Whittington  42      F-C   6-11    250   
+14  1610612754   2015       00        Solomon Hill  44        F    6-7    225   
+
+      BIRTH_DATE   AGE EXP                       SCHOOL  PLAYER_ID  
+0   MAR 18, 1987  29.0  10              Skyline HS (TX)     101139  
+1   JUN 27, 1992  24.0   R                       Oregon    1626202  
+2   APR 21, 1986  30.0   8           Eastern Washington     201155  
+3   MAY 04, 1986  30.0   7  Indiana Purdue-Indianapolis     201588  
+4   FEB 04, 1989  27.0   4                       Temple     202730  
+5   NOV 03, 1987  28.0   6               North Carolina     201951  
+6   OCT 26, 1985  30.0  10      Lanier HS (Jackson, MS)     101145  
+7   MAY 02, 1990  26.0   5                 Fresno State     202331  
+8   DEC 01, 1991  24.0   R                     Syracuse    1626176  
+9   JUL 27, 1987  28.0   6                      Arizona     201941  
+10  NOV 05, 1986  29.0   7                Rouen, France     101133  
+11  MAR 24, 1996  20.0   R                        Texas    1626167  
+12  JAN 08, 1994  22.0   1                     Michigan     203922  
+13  MAR 27, 1991  25.0   1             Western Michigan     203963  
+14  MAR 18, 1991  25.0   2                      Arizona     203524  "
+12,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612746   2015       00        Chris Paul   3        G    6-0    175   
+1   1610612746   2015       00         JJ Redick   4        G    6-4    190   
+2   1610612746   2015       00    DeAndre Jordan   6        C   6-11    265   
+3   1610612746   2015       00        Jeff Green   8        F    6-9    235   
+4   1610612746   2015       00    Pablo Prigioni   9        G    6-3    185   
+5   1610612746   2015       00    Jamal Crawford  11        G    6-5    195   
+6   1610612746   2015       00  Luc Mbah a Moute  12        F    6-8    230   
+7   1610612746   2015       00        Jeff Ayres  19      F-C    6-9    250   
+8   1610612746   2015       00    Branden Dawson  22        F    6-6    225   
+9   1610612746   2015       00     Austin Rivers  25        G    6-4    200   
+10  1610612746   2015       00         CJ Wilcox  30        G    6-5    195   
+11  1610612746   2015       00     Blake Griffin  32        F   6-10    251   
+12  1610612746   2015       00    Wesley Johnson  33      F-G    6-7    215   
+13  1610612746   2015       00       Paul Pierce  34        F    6-7    235   
+14  1610612746   2015       00      Cole Aldrich  45        C   6-11    250   
+
+      BIRTH_DATE   AGE EXP          SCHOOL  PLAYER_ID  
+0   MAY 06, 1985  31.0  10     Wake Forest     101108  
+1   JUN 24, 1984  32.0   9            Duke     200755  
+2   JUL 21, 1988  27.0   7       Texas A&M     201599  
+3   AUG 28, 1986  29.0   7      Georgetown     201145  
+4   MAY 17, 1977  39.0   3       Argentina     203143  
+5   MAR 20, 1980  36.0  15        Michigan       2037  
+6   SEP 09, 1986  29.0   7            UCLA     201601  
+7   APR 29, 1987  29.0   5   Arizona State     201965  
+8   FEB 01, 1993  23.0   R  Michigan State    1626183  
+9   AUG 01, 1992  23.0   3            Duke     203085  
+10  DEC 30, 1990  25.0   1      Washington     203912  
+11  MAR 16, 1989  27.0   5        Oklahoma     201933  
+12  JUL 11, 1987  28.0   5        Syracuse     202325  
+13  OCT 13, 1977  38.0  17          Kansas       1718  
+14  OCT 31, 1988  27.0   5          Kansas     202332  "
+13,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612747   2015       00         Nick Young   0      F-G    6-7    210   
+1   1610612747   2015       00   D'Angelo Russell   1        G    6-5    195   
+2   1610612747   2015       00       Brandon Bass   2        F    6-8    250   
+3   1610612747   2015       00      Anthony Brown   3        F    6-7    210   
+4   1610612747   2015       00         Ryan Kelly   4        F   6-11    230   
+5   1610612747   2015       00    Jordan Clarkson   6        G    6-5    194   
+6   1610612747   2015       00    Larry Nance Jr.   7        F    6-9    230   
+7   1610612747   2015       00    Marcelo Huertas   9        G    6-3    200   
+8   1610612747   2015       00        Roy Hibbert  17        C    7-2    270   
+9   1610612747   2015       00       Lou Williams  23        G    6-1    175   
+10  1610612747   2015       00        Kobe Bryant  24      F-G    6-6    212   
+11  1610612747   2015       00        Tarik Black  28      C-F    6-9    250   
+12  1610612747   2015       00      Julius Randle  30        F    6-9    250   
+13  1610612747   2015       00  Metta World Peace  37        F    6-7    260   
+14  1610612747   2015       00       Robert Sacre  50        C    7-0    270   
+
+      BIRTH_DATE   AGE EXP                  SCHOOL  PLAYER_ID  
+0   JUN 01, 1985  31.0   8     Southern California     201156  
+1   FEB 23, 1996  20.0   R              Ohio State    1626156  
+2   APR 30, 1985  31.0  10         Louisiana State     101138  
+3   OCT 10, 1992  23.0   R                Stanford    1626148  
+4   APR 09, 1991  25.0   2                    Duke     203527  
+5   JUN 07, 1992  24.0   1                Missouri     203903  
+6   JAN 01, 1993  23.0   R                 Wyoming    1626204  
+7   MAY 25, 1983  33.0   R                    None    1626273  
+8   DEC 11, 1986  29.0   7              Georgetown     201579  
+9   OCT 27, 1986  29.0  10  South Gwinnett HS (GA)     101150  
+10  AUG 23, 1978  37.0  19    Lower Merion HS (PA)        977  
+11  NOV 22, 1991  24.0   1                  Kansas     204028  
+12  NOV 29, 1994  21.0   1                Kentucky     203944  
+13  NOV 13, 1979  36.0  15         St. John's (NY)       1897  
+14  JUN 06, 1989  27.0   3                 Gonzaga     203135  "
+14,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612763   2015       00    JaMychal Green   0        F    6-9    227   
+1   1610612763   2015       00  Lance Stephenson   1      F-G    6-5    230   
+2   1610612763   2015       00      Jordan Adams   3        G    6-5    209   
+3   1610612763   2015       00     Jordan Farmar   4        G    6-2    180   
+4   1610612763   2015       00    Chris Andersen   7      F-C   6-10    245   
+5   1610612763   2015       00      Bryce Cotton   8        G    6-1    165   
+6   1610612763   2015       00        Tony Allen   9      G-F    6-4    213   
+7   1610612763   2015       00     Jarell Martin  10        F   6-10    239   
+8   1610612763   2015       00       Mike Conley  11        G    6-1    175   
+9   1610612763   2015       00    Xavier Munford  14        G    6-3    180   
+10  1610612763   2015       00      Vince Carter  15      G-F    6-6    220   
+11  1610612763   2015       00       PJ Hairston  19      F-G    6-6    230   
+12  1610612763   2015       00       Matt Barnes  22        F    6-7    226   
+13  1610612763   2015       00        Marc Gasol  33        C    7-1    255   
+14  1610612763   2015       00    Brandan Wright  34        F   6-10    210   
+15  1610612763   2015       00     Zach Randolph  50        F    6-9    260   
+
+      BIRTH_DATE   AGE EXP            SCHOOL  PLAYER_ID  
+0   JUN 21, 1990  26.0   1           Alabama     203210  
+1   SEP 05, 1990  25.0   5        Cincinnati     202362  
+2   JUL 08, 1994  21.0   1              UCLA     203919  
+3   NOV 30, 1986  29.0   8              UCLA     200770  
+4   JUL 07, 1978  37.0  13             Blinn       2365  
+5   AUG 11, 1992  23.0   1        Providence     203955  
+6   JAN 11, 1982  34.0  11    Oklahoma State       2754  
+7   MAY 24, 1994  22.0   R   Louisiana State    1626185  
+8   OCT 11, 1987  28.0   8        Ohio State     201144  
+9   JUN 01, 1992  24.0   R      Rhode Island     204098  
+10  JAN 26, 1977  39.0  17    North Carolina       1713  
+11  DEC 24, 1992  23.0   1    North Carolina     203798  
+12  MAR 09, 1980  36.0  12              UCLA       2440  
+13  JAN 29, 1985  31.0   7  Barcelona, Spain     201188  
+14  OCT 05, 1987  28.0   7    North Carolina     201148  
+15  JUL 16, 1981  34.0  14    Michigan State       2216  "
+15,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612748   2015       00    Josh Richardson   0        G    6-6    200   
+1   1610612748   2015       00         Chris Bosh   1        F   6-11    235   
+2   1610612748   2015       00        Joe Johnson   2      F-G    6-7    240   
+3   1610612748   2015       00        Dwyane Wade   3        G    6-4    220   
+4   1610612748   2015       00     Josh McRoberts   4        F   6-10    240   
+5   1610612748   2015       00  Amar'e Stoudemire   5      F-C   6-10    245   
+6   1610612748   2015       00       Goran Dragic   7        G    6-3    190   
+7   1610612748   2015       00      Tyler Johnson   8        G    6-4    186   
+8   1610612748   2015       00          Luol Deng   9        F    6-9    220   
+9   1610612748   2015       00      Dorell Wright  11      F-G    6-9    205   
+10  1610612748   2015       00      Briante Weber  12        G    6-2    165   
+11  1610612748   2015       00       Gerald Green  14        F    6-7    205   
+12  1610612748   2015       00    Justise Winslow  20        F    6-7    225   
+13  1610612748   2015       00   Hassan Whiteside  21        C    7-0    265   
+14  1610612748   2015       00      Udonis Haslem  40        F    6-8    235   
+
+      BIRTH_DATE   AGE EXP                 SCHOOL  PLAYER_ID  
+0   SEP 15, 1993  22.0   R              Tennessee    1626196  
+1   MAR 24, 1984  32.0  12           Georgia Tech       2547  
+2   JUN 29, 1981  35.0  14               Arkansas       2207  
+3   JAN 17, 1982  34.0  12              Marquette       2548  
+4   FEB 28, 1987  29.0   8                   Duke     201177  
+5   NOV 16, 1982  33.0  13     Cypress Creek (FL)       2405  
+6   MAY 06, 1986  30.0   7    Ljubljana, Slovenia     201609  
+7   MAY 07, 1992  24.0   1           Fresno State     204020  
+8   APR 16, 1985  31.0  11                   Duke       2736  
+9   DEC 02, 1985  30.0  11   South Kent Prep (CT)       2748  
+10  DEC 29, 1992  23.0   R  Virginia Commonwealth    1627362  
+11  JAN 26, 1986  30.0   8  Gulf Shores Aca. (TX)     101123  
+12  MAR 26, 1996  20.0   R                   Duke    1626159  
+13  JUN 13, 1989  27.0   3               Marshall     202355  
+14  JUN 09, 1980  36.0  12                Florida       2617  "
+16,"        TeamID SEASON LeagueID                   PLAYER NUM POSITION HEIGHT  \
+0   1610612749   2015       00                O.J. Mayo   3        G    6-5   
+1   1610612749   2015       00  Michael Carter-Williams   5        G    6-6   
+2   1610612749   2015       00              Steve Novak   6        F   6-10   
+3   1610612749   2015       00              Tyler Ennis  11        G    6-3   
+4   1610612749   2015       00            Jabari Parker  12        F    6-8   
+5   1610612749   2015       00              Greg Monroe  15      C-F   6-11   
+6   1610612749   2015       00            Damien Inglis  17        F    6-8   
+7   1610612749   2015       00            Miles Plumlee  18        C   6-11   
+8   1610612749   2015       00           Jerryd Bayless  19        G    6-3   
+9   1610612749   2015       00            Rashad Vaughn  20        G    6-6   
+10  1610612749   2015       00          Greivis Vasquez  21        G    6-6   
+11  1610612749   2015       00          Khris Middleton  22      G-F    6-8   
+12  1610612749   2015       00              John Henson  31        F   6-11   
+13  1610612749   2015       00    Giannis Antetokounmpo  34        F   6-11   
+14  1610612749   2015       00      Johnny O'Bryant III  77      F-C    6-9   
+
+   WEIGHT    BIRTH_DATE   AGE EXP               SCHOOL  PLAYER_ID  
+0     210  NOV 05, 1987  28.0   7  Southern California     201564  
+1     190  OCT 10, 1991  24.0   2             Syracuse     203487  
+2     225  JUN 13, 1983  33.0   9            Marquette     200779  
+3     194  AUG 24, 1994  21.0   1             Syracuse     203898  
+4     250  MAR 15, 1995  21.0   1                 Duke     203953  
+5     265  JUN 04, 1990  26.0   5           Georgetown     202328  
+6     246  MAY 20, 1995  21.0   R                 None     203996  
+7     249  SEP 01, 1988  27.0   3                 Duke     203101  
+8     200  AUG 20, 1988  27.0   7              Arizona     201573  
+9     202  AUG 16, 1996  19.0   R                 UNLV    1626173  
+10    217  JAN 16, 1987  29.0   5             Maryland     202349  
+11    234  AUG 12, 1991  24.0   3            Texas A&M     203114  
+12    229  DEC 28, 1990  25.0   3       North Carolina     203089  
+13    222  DEC 06, 1994  21.0   2               Greece     203507  
+14    257  JUN 01, 1993  23.0   1      Louisiana State     203948  "
+17,"        TeamID SEASON LeagueID              PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612750   2015       00          Tyus Jones   1        G    6-2    195   
+1   1610612750   2015       00          Greg Smith   4        C   6-10    250   
+2   1610612750   2015       00        Gorgui Dieng   5      C-F   6-11    241   
+3   1610612750   2015       00         Zach LaVine   8        G    6-5    189   
+4   1610612750   2015       00         Ricky Rubio   9        G    6-4    194   
+5   1610612750   2015       00        Damjan Rudez  10        F    6-9    230   
+6   1610612750   2015       00     Tayshaun Prince  12        F    6-9    212   
+7   1610612750   2015       00      Nikola Pekovic  14        C   6-11    307   
+8   1610612750   2015       00    Shabazz Muhammad  15        F    6-6    223   
+9   1610612750   2015       00       Kevin Garnett  21        F   6-11    240   
+10  1610612750   2015       00      Andrew Wiggins  22      G-F    6-8    199   
+11  1610612750   2015       00  Karl-Anthony Towns  32      C-F    7-0    244   
+12  1610612750   2015       00       Adreian Payne  33        F   6-10    237   
+13  1610612750   2015       00     Nemanja Bjelica  88        F   6-10    240   
+
+      BIRTH_DATE   AGE EXP                     SCHOOL  PLAYER_ID  
+0   MAY 10, 1996  20.0   R                       Duke    1626145  
+1   JAN 08, 1991  25.0   4               Fresno State     202962  
+2   JAN 18, 1990  26.0   2                 Louisville     203476  
+3   MAR 10, 1995  21.0   1                       UCLA     203897  
+4   OCT 21, 1990  25.0   4           El Masnou, Spain     201937  
+5   JUN 17, 1986  30.0   1                       None     204014  
+6   FEB 28, 1980  36.0  13                   Kentucky       2419  
+7   JAN 03, 1986  30.0   5                 Montenegro     201593  
+8   NOV 13, 1992  23.0   2                       UCLA     203498  
+9   MAY 19, 1976  40.0  20  Farragut Academy HS (CHI)        708  
+10  FEB 23, 1995  21.0   1                     Kansas     203952  
+11  NOV 15, 1995  20.0   R                   Kentucky    1626157  
+12  FEB 19, 1991  25.0   1             Michigan State     203940  
+13  MAY 09, 1988  28.0   R                       None     202357  "
+18,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612740   2015       00      Tyreke Evans   1      G-F    6-6    220   
+1   1610612740   2015       00       Tim Frazier   2        G    6-1    170   
+2   1610612740   2015       00         Omer Asik   3        C    7-0    255   
+3   1610612740   2015       00   James Ennis III   4        F    6-7    210   
+4   1610612740   2015       00  Kendrick Perkins   5        C   6-10    270   
+5   1610612740   2015       00      Luke Babbitt   8        F    6-9    225   
+6   1610612740   2015       00       Eric Gordon  10        G    6-4    215   
+7   1610612740   2015       00      Jrue Holiday  11        G    6-4    205   
+8   1610612740   2015       00        Alonzo Gee  15        F    6-6    225   
+9   1610612740   2015       00     Toney Douglas  16        G    6-2    195   
+10  1610612740   2015       00  Quincy Pondexter  20      F-G    6-7    220   
+11  1610612740   2015       00     Anthony Davis  23      F-C   6-10    253   
+12  1610612740   2015       00   Jordan Hamilton  25      G-F    6-7    220   
+13  1610612740   2015       00       Norris Cole  30        G    6-2    175   
+14  1610612740   2015       00     Ryan Anderson  33        F   6-10    240   
+15  1610612740   2015       00     Alexis Ajinca  42        C    7-2    248   
+16  1610612740   2015       00  Dante Cunningham  44        F    6-8    230   
+
+      BIRTH_DATE   AGE EXP                   SCHOOL  PLAYER_ID  
+0   SEP 19, 1989  26.0   6                  Memphis     201936  
+1   NOV 01, 1990  25.0   1                     None     204025  
+2   JUL 04, 1986  29.0   5                   Turkey     201600  
+3   JUL 01, 1990  25.0   1         Long Beach State     203516  
+4   NOV 10, 1984  31.0  12  Clifton J. Ozen HS (TX)       2570  
+5   JUN 20, 1989  27.0   5                   Nevada     202337  
+6   DEC 25, 1988  27.0   7                  Indiana     201569  
+7   JUN 12, 1990  26.0   6                     UCLA     201950  
+8   MAY 29, 1987  29.0   6                  Alabama     202087  
+9   MAR 16, 1986  30.0   6            Florida State     201962  
+10  MAR 10, 1988  28.0   5               Washington     202347  
+11  MAR 11, 1993  23.0   3                 Kentucky     203076  
+12  OCT 06, 1990  25.0   4                    Texas     202706  
+13  OCT 13, 1988  27.0   4          Cleveland State     202708  
+14  MAY 06, 1988  28.0   7               California     201583  
+15  MAY 06, 1988  28.0   5    Saint Etienne, France     201582  
+16  APR 22, 1987  29.0   6                Villanova     201967  "
+19,"        TeamID SEASON LeagueID              PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612752   2015       00      Kevin Seraphin   1      F-C   6-10    278   
+1   1610612752   2015       00   Langston Galloway   2        G    6-2    200   
+2   1610612752   2015       00       Jose Calderon   3        G    6-3    200   
+3   1610612752   2015       00       Arron Afflalo   4        G    6-5    210   
+4   1610612752   2015       00         Tony Wroten   5        G    6-6    205   
+5   1610612752   2015       00  Kristaps Porzingis   6      F-C    7-3    240   
+6   1610612752   2015       00     Carmelo Anthony   7        F    6-8    240   
+7   1610612752   2015       00         Robin Lopez   8        C    7-0    255   
+8   1610612752   2015       00        Kyle O'Quinn   9      F-C   6-10    250   
+9   1610612752   2015       00    Cleanthony Early  11        F    6-8    210   
+10  1610612752   2015       00        Jerian Grant  13        G    6-4    195   
+11  1610612752   2015       00        Lou Amundson  17        F    6-9    220   
+12  1610612752   2015       00       Sasha Vujacic  18        G    6-7    195   
+13  1610612752   2015       00    Derrick Williams  23        F    6-8    240   
+14  1610612752   2015       00        Lance Thomas  42        F    6-8    235   
+
+      BIRTH_DATE   AGE EXP                          SCHOOL  PLAYER_ID  
+0   DEC 07, 1989  26.0   5                        Le Moyne     202338  
+1   DEC 09, 1991  24.0   1                  Saint Joseph's     204038  
+2   SEP 28, 1981  34.0  10  Villanueva de la Serena, Spain     101181  
+3   OCT 15, 1985  30.0   8                            UCLA     201167  
+4   APR 13, 1993  23.0   3                      Washington     203100  
+5   AUG 02, 1995  20.0   R                            None     204001  
+6   MAY 29, 1984  32.0  12                        Syracuse       2546  
+7   APR 01, 1988  28.0   7                        Stanford     201577  
+8   MAR 26, 1990  26.0   3                   Norfolk State     203124  
+9   APR 17, 1991  25.0   1                   Wichita State     203921  
+10  OCT 09, 1992  23.0   R                      Notre Dame    1626170  
+11  DEC 07, 1982  33.0   9                Nevada-Las Vegas     200811  
+12  MAR 08, 1984  32.0   8               Maribor, Slovenia       2756  
+13  MAY 25, 1991  25.0   4                         Arizona     202682  
+14  APR 24, 1988  28.0   4                            Duke     202498  "
+20,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612760   2015       00  Russell Westbrook   0        G    6-3    200   
+1   1610612760   2015       00     Anthony Morrow   2        G    6-5    210   
+2   1610612760   2015       00       Dion Waiters   3        G    6-4    220   
+3   1610612760   2015       00      Nick Collison   4        F   6-10    255   
+4   1610612760   2015       00       Kyle Singler   5        F    6-8    228   
+5   1610612760   2015       00         Randy Foye   6        G    6-4    213   
+6   1610612760   2015       00        Serge Ibaka   9        F   6-10    245   
+7   1610612760   2015       00        Enes Kanter  11        C   6-11    245   
+8   1610612760   2015       00       Steven Adams  12        C    7-0    255   
+9   1610612760   2015       00      Nazr Mohammed  13        C   6-10    250   
+10  1610612760   2015       00     Andre Roberson  21        G    6-7    210   
+11  1610612760   2015       00      Cameron Payne  22        G    6-3    185   
+12  1610612760   2015       00       Mitch McGary  33        F   6-10    255   
+13  1610612760   2015       00       Josh Huestis  34        F    6-7    230   
+14  1610612760   2015       00       Kevin Durant  35        F    6-9    240   
+
+      BIRTH_DATE   AGE EXP                      SCHOOL  PLAYER_ID  
+0   NOV 12, 1988  27.0   7                        UCLA     201566  
+1   SEP 27, 1985  30.0   7                Georgia Tech     201627  
+2   DEC 10, 1991  24.0   3                    Syracuse     203079  
+3   OCT 26, 1980  35.0  11                      Kansas       2555  
+4   MAY 04, 1988  28.0   3                        Duke     202713  
+5   SEP 24, 1983  32.0   9                   Villanova     200751  
+6   SEP 18, 1989  26.0   6  Brazzaville, Rep. of Congo     201586  
+7   MAY 20, 1992  24.0   4                    Kentucky     202683  
+8   JUL 20, 1993  22.0   2                  Pittsburgh     203500  
+9   SEP 05, 1977  38.0  17                    Kentucky       1737  
+10  DEC 04, 1991  24.0   2                    Colorado     203460  
+11  AUG 08, 1994  21.0   R                Murray State    1626166  
+12  JUN 06, 1992  24.0   1                    Michigan     203956  
+13  DEC 19, 1991  24.0   R                    Stanford     203962  
+14  SEP 29, 1988  27.0   8                       Texas     201142  "
+21,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612753   2015       00      Aaron Gordon  00        F    6-9    220   
+1   1610612753   2015       00    Dewayne Dedmon   3        C    7-0    245   
+2   1610612753   2015       00     Elfrid Payton   4        G    6-4    185   
+3   1610612753   2015       00    Victor Oladipo   5        G    6-4    210   
+4   1610612753   2015       00    Ersan Ilyasova   7        F   6-10    235   
+5   1610612753   2015       00    Nikola Vucevic   9        C    7-0    260   
+6   1610612753   2015       00     Evan Fournier  10      G-F    6-7    205   
+7   1610612753   2015       00      Devyn Marble  11        F    6-6    200   
+8   1610612753   2015       00    Shabazz Napier  13        G    6-1    175   
+9   1610612753   2015       00       Jason Smith  14      F-C    7-0    240   
+10  1610612753   2015       00     Mario Hezonja  23      G-F    6-8    218   
+11  1610612753   2015       00       C.J. Watson  32        G    6-2    175   
+12  1610612753   2015       00  Andrew Nicholson  44        F    6-9    250   
+13  1610612753   2015       00  Brandon Jennings  55        G    6-1    169   
+
+      BIRTH_DATE   AGE EXP                 SCHOOL  PLAYER_ID  
+0   SEP 16, 1995  20.0   1                Arizona     203932  
+1   AUG 12, 1989  26.0   2    Southern California     203473  
+2   FEB 22, 1994  22.0   1    Louisiana-Lafayette     203901  
+3   MAY 04, 1992  24.0   2                Indiana     203506  
+4   MAY 15, 1987  29.0   7      Eskisehir, Turkey     101141  
+5   OCT 24, 1990  25.0   4    Southern California     202696  
+6   OCT 29, 1992  23.0   3                 France     203095  
+7   SEP 21, 1992  23.0   1                   Iowa     203906  
+8   JUL 14, 1991  24.0   1            Connecticut     203894  
+9   MAR 02, 1986  30.0   7         Colorado State     201160  
+10  FEB 25, 1995  21.0   R                Croatia    1626209  
+11  APR 17, 1984  32.0   8              Tennessee     201228  
+12  DEC 08, 1989  26.0   3        St. Bonaventure     203094  
+13  SEP 23, 1989  26.0   6  Oak Hill Academy (VA)     201943  "
+22,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612755   2015       00     Isaiah Canaan   0        G    6-0    201   
+1   1610612755   2015       00         Ish Smith   1        G    6-0    175   
+2   1610612755   2015       00      Nerlens Noel   4      F-C   6-11    228   
+3   1610612755   2015       00  Kendall Marshall   5        G    6-4    200   
+4   1610612755   2015       00       Carl Landry   7        F    6-9    248   
+5   1610612755   2015       00     Jahlil Okafor   8        C   6-11    275   
+6   1610612755   2015       00      Nik Stauskas  11        G    6-6    205   
+7   1610612755   2015       00    T.J. McConnell  12        G    6-2    200   
+8   1610612755   2015       00       Joel Embiid  21        C    7-0    250   
+9   1610612755   2015       00    Richaun Holmes  22        F   6-10    245   
+10  1610612755   2015       00   Hollis Thompson  31      G-F    6-8    206   
+11  1610612755   2015       00  Robert Covington  33        F    6-9    215   
+12  1610612755   2015       00    Christian Wood  35        F   6-11    220   
+13  1610612755   2015       00      Jerami Grant  39        F    6-8    210   
+14  1610612755   2015       00       Elton Brand  42        F    6-9    254   
+
+      BIRTH_DATE   AGE EXP            SCHOOL  PLAYER_ID  
+0   MAY 21, 1991  25.0   2      Murray State     203477  
+1   JUL 05, 1988  27.0   5       Wake Forest     202397  
+2   APR 10, 1994  22.0   1          Kentucky     203457  
+3   AUG 19, 1991  24.0   3    North Carolina     203088  
+4   SEP 19, 1983  32.0   8            Purdue     201171  
+5   DEC 15, 1995  20.0   R              Duke    1626143  
+6   OCT 07, 1993  22.0   1          Michigan     203917  
+7   MAR 25, 1992  24.0   R           Arizona     204456  
+8   MAR 16, 1994  22.0   R            Kansas     203954  
+9   OCT 15, 1993  22.0   R     Bowling Green    1626158  
+10  APR 03, 1991  25.0   2        Georgetown     203138  
+11  DEC 14, 1990  25.0   2   Tennessee State     203496  
+12  SEP 27, 1995  20.0   R  Nevada-Las Vegas    1626174  
+13  MAR 12, 1994  22.0   1          Syracuse     203924  
+14  MAR 11, 1979  37.0  16              Duke       1882  "
+23,"        TeamID SEASON LeagueID           PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612756   2015       00     Devin Booker   1        G    6-6    206   
+1   1610612756   2015       00     Eric Bledsoe   2        G    6-1    190   
+2   1610612756   2015       00   Brandon Knight   3        G    6-3    189   
+3   1610612756   2015       00   Tyson Chandler   4        C    7-1    240   
+4   1610612756   2015       00   Chase Budinger  10        F    6-7    209   
+5   1610612756   2015       00        TJ Warren  12        F    6-8    230   
+6   1610612756   2015       00     Ronnie Price  14        G    6-2    190   
+7   1610612756   2015       00    Alan Williams  15      C-F    6-8    260   
+8   1610612756   2015       00        PJ Tucker  17        F    6-6    245   
+9   1610612756   2015       00   Archie Goodwin  20        G    6-5    200   
+10  1610612756   2015       00         Alex Len  21        C    7-1    260   
+11  1610612756   2015       00     John Jenkins  23        G    6-4    215   
+12  1610612756   2015       00        Jon Leuer  30        F   6-10    228   
+13  1610612756   2015       00  Mirza Teletovic  35        F    6-9    242   
+
+      BIRTH_DATE   AGE EXP                    SCHOOL  PLAYER_ID  
+0   OCT 30, 1996  19.0   R                  Kentucky    1626164  
+1   DEC 09, 1989  26.0   5                  Kentucky     202339  
+2   DEC 02, 1991  24.0   4                  Kentucky     202688  
+3   OCT 02, 1982  33.0  14             Dominquez H.S       2199  
+4   MAY 22, 1988  28.0   6                   Arizona     201978  
+5   SEP 05, 1993  22.0   1      North Carolina State     203933  
+6   JUN 21, 1983  33.0  10               Utah Valley     101179  
+7   JAN 28, 1993  23.0   R  California-Santa Barbara    1626210  
+8   MAY 05, 1985  31.0   4                     Texas     200782  
+9   AUG 17, 1994  21.0   2                  Kentucky     203462  
+10  JUN 16, 1993  23.0   2                  Maryland     203458  
+11  MAR 06, 1991  25.0   3                Vanderbilt     203098  
+12  MAY 14, 1989  27.0   4                 Wisconsin     202720  
+13  SEP 17, 1985  30.0   3                    Bosnia     203141  "
+24,"        TeamID SEASON LeagueID            PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612757   2015       00    Damian Lillard   0        G    6-3    195   
+1   1610612757   2015       00     Brian Roberts   2        G    6-1    173   
+2   1610612757   2015       00       CJ McCollum   3        G    6-4    200   
+3   1610612757   2015       00  Maurice Harkless   4        F    6-9    215   
+4   1610612757   2015       00   Pat Connaughton   5        G    6-5    206   
+5   1610612757   2015       00   Al-Farouq Aminu   8        F    6-9    215   
+6   1610612757   2015       00  Gerald Henderson   9        G    6-5    215   
+7   1610612757   2015       00    Meyers Leonard  11      F-C    7-1    245   
+8   1610612757   2015       00          Ed Davis  17      F-C   6-10    240   
+9   1610612757   2015       00       Noah Vonleh  21        F    6-9    240   
+10  1610612757   2015       00      Allen Crabbe  23        G    6-6    210   
+11  1610612757   2015       00     Mason Plumlee  24      C-F   6-11    235   
+12  1610612757   2015       00   Cliff Alexander  34        F    6-8    240   
+13  1610612757   2015       00       Chris Kaman  35        C    7-0    265   
+14  1610612757   2015       00      Luis Montero  44        G    6-7    185   
+
+      BIRTH_DATE   AGE EXP             SCHOOL  PLAYER_ID  
+0   JUL 15, 1990  25.0   3        Weber State     203081  
+1   DEC 03, 1985  30.0   3             Dayton     203148  
+2   SEP 19, 1991  24.0   2             Lehigh     203468  
+3   MAY 11, 1993  23.0   3    St. John's (NY)     203090  
+4   JAN 06, 1993  23.0   R         Notre Dame    1626192  
+5   SEP 21, 1990  25.0   5        Wake Forest     202329  
+6   DEC 09, 1987  28.0   6               Duke     201945  
+7   FEB 27, 1992  24.0   3           Illinois     203086  
+8   JUN 05, 1989  27.0   5     North Carolina     202334  
+9   AUG 24, 1995  20.0   1            Indiana     203943  
+10  APR 09, 1992  24.0   2         California     203459  
+11  MAR 05, 1990  26.0   2               Duke     203486  
+12  NOV 16, 1995  20.0   R             Kansas    1626146  
+13  APR 28, 1982  34.0  12   Central Michigan       2549  
+14  APR 06, 1993  23.0   R  Westchester CC NY    1626242  "
+25,"        TeamID SEASON LeagueID               PLAYER NUM POSITION HEIGHT  \
+0   1610612758   2015       00  Willie Cauley-Stein  00        C    7-0   
+1   1610612758   2015       00      Marco Belinelli   3      G-F    6-5   
+2   1610612758   2015       00       James Anderson   5      G-F    6-6   
+3   1610612758   2015       00      Darren Collison   7        G    6-0   
+4   1610612758   2015       00             Rudy Gay   8        F    6-8   
+5   1610612758   2015       00          Rajon Rondo   9        G    6-1   
+6   1610612758   2015       00           Quincy Acy  13        F    6-7   
+7   1610612758   2015       00     DeMarcus Cousins  15      C-F   6-11   
+8   1610612758   2015       00          Omri Casspi  18        F    6-9   
+9   1610612758   2015       00         Ben McLemore  23        G    6-5   
+10  1610612758   2015       00        Eric Moreland  25      F-C   6-10   
+11  1610612758   2015       00           Duje Dukan  26        F    6-9   
+12  1610612758   2015       00           Seth Curry  30        G    6-2   
+13  1610612758   2015       00         Caron Butler  31        F    6-7   
+14  1610612758   2015       00         Kosta Koufos  41        C    7-0   
+
+   WEIGHT    BIRTH_DATE   AGE EXP          SCHOOL  PLAYER_ID  
+0     240  AUG 18, 1993  22.0   R        Kentucky    1626161  
+1     210  MAR 25, 1986  30.0   8  Bologna, Italy     201158  
+2     213  MAR 25, 1989  27.0   4  Oklahoma State     202341  
+3     175  AUG 23, 1987  28.0   6            UCLA     201954  
+4     230  AUG 17, 1986  29.0   9     Connecticut     200752  
+5     186  FEB 22, 1986  30.0   9        Kentucky     200765  
+6     240  OCT 06, 1990  25.0   3          Baylor     203112  
+7     270  AUG 13, 1990  25.0   5        Kentucky     202326  
+8     225  JUN 22, 1988  28.0   6   Yavne, Israel     201956  
+9     195  FEB 11, 1993  23.0   2          Kansas     203463  
+10    238  DEC 24, 1991  24.0   1    Oregon State     203961  
+11    220  DEC 04, 1991  24.0   R       Wisconsin    1626251  
+12    185  AUG 23, 1990  25.0   2            Duke     203552  
+13    228  MAR 13, 1980  36.0  13     Connecticut       2406  
+14    265  FEB 24, 1989  27.0   7      Ohio State     201585  "
+26,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612759   2015       00      Kyle Anderson   1        F    6-9    230   
+1   1610612759   2015       00      Kawhi Leonard   2        F    6-7    230   
+2   1610612759   2015       00        Patty Mills   8        G    6-0    185   
+3   1610612759   2015       00        Tony Parker   9        G    6-2    185   
+4   1610612759   2015       00  LaMarcus Aldridge  12        F   6-11    240   
+5   1610612759   2015       00        Danny Green  14      G-F    6-6    215   
+6   1610612759   2015       00        Matt Bonner  15      C-F   6-10    235   
+7   1610612759   2015       00   Jonathon Simmons  17      G-F    6-6    195   
+8   1610612759   2015       00      Manu Ginobili  20        G    6-6    205   
+9   1610612759   2015       00         Tim Duncan  21      C-F   6-11    250   
+10  1610612759   2015       00       Kevin Martin  23        G    6-7    199   
+11  1610612759   2015       00       Andre Miller  24        G    6-3    200   
+12  1610612759   2015       00         David West  30        F    6-9    250   
+13  1610612759   2015       00         Boris Diaw  33      C-F    6-8    250   
+14  1610612759   2015       00   Boban Marjanovic  40        C    7-3    290   
+
+      BIRTH_DATE   AGE EXP                        SCHOOL  PLAYER_ID  
+0   SEP 20, 1993  22.0   1                          UCLA     203937  
+1   JUN 29, 1991  25.0   4               San Diego State     202695  
+2   AUG 11, 1988  27.0   6             Saint Mary's (CA)     201988  
+3   MAY 17, 1982  34.0  14                 Paris, France       2225  
+4   JUL 19, 1985  30.0   9                         Texas     200746  
+5   JUN 22, 1987  29.0   6                North Carolina     201980  
+6   APR 05, 1980  36.0  11                       Florida       2588  
+7   SEP 14, 1989  26.0   R                       Houston     203613  
+8   JUL 28, 1977  38.0  13       Bahia Blanca, Argentina       1938  
+9   APR 25, 1976  40.0  18                   Wake Forest       1495  
+10  FEB 01, 1983  33.0  11              Western Carolina       2755  
+11  MAR 19, 1976  40.0  16                          Utah       1889  
+12  AUG 29, 1980  35.0  12                        Xavier       2561  
+13  APR 16, 1982  34.0  12  Cormeille-en-Parisis, France       2564  
+14  AUG 15, 1988  27.0   R                          None    1626246  "
+27,"        TeamID SEASON LeagueID             PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612761   2015       00     Jason Thompson   1      F-C   6-11    250   
+1   1610612761   2015       00      James Johnson   3        F    6-9    250   
+2   1610612761   2015       00         Luis Scola   4        F    6-9    240   
+3   1610612761   2015       00    DeMarre Carroll   5        F    6-8    212   
+4   1610612761   2015       00        Cory Joseph   6        G    6-3    190   
+5   1610612761   2015       00         Kyle Lowry   7        G    6-0    205   
+6   1610612761   2015       00    Bismack Biyombo   8      C-F    6-9    245   
+7   1610612761   2015       00      DeMar DeRozan  10        G    6-7    220   
+8   1610612761   2015       00  Jonas Valanciunas  17        C    7-0    255   
+9   1610612761   2015       00      Bruno Caboclo  20        F    6-9    205   
+10  1610612761   2015       00      Norman Powell  24        G    6-4    215   
+11  1610612761   2015       00      Terrence Ross  31      F-G    6-7    195   
+12  1610612761   2015       00  Patrick Patterson  54        F    6-9    235   
+13  1610612761   2015       00       Delon Wright  55        G    6-5    190   
+14  1610612761   2015       00     Lucas Nogueira  92        C    7-0    220   
+
+      BIRTH_DATE   AGE EXP                   SCHOOL  PLAYER_ID  
+0   JUL 21, 1986  29.0   7                    Rider     201574  
+1   FEB 20, 1987  29.0   6              Wake Forest     201949  
+2   APR 30, 1980  36.0   8  Buenos Aires, Argentina       2449  
+3   JUL 27, 1986  29.0   6                 Missouri     201960  
+4   AUG 20, 1991  24.0   4                    Texas     202709  
+5   MAR 25, 1986  30.0   9                Villanova     200768  
+6   AUG 28, 1992  23.0   4     Lubumbashi, DR Congo     202687  
+7   AUG 07, 1989  26.0   6      Southern California     201942  
+8   MAY 06, 1992  24.0   3         Utena, Lithuania     202685  
+9   SEP 21, 1995  20.0   1                     None     203998  
+10  MAY 25, 1993  23.0   R                     UCLA    1626181  
+11  FEB 05, 1991  25.0   3               Washington     203082  
+12  MAR 14, 1989  27.0   5                 Kentucky     202335  
+13  APR 26, 1992  24.0   R                     Utah    1626153  
+14  JUL 26, 1992  23.0   1                     None     203512  "
+28,"        TeamID SEASON LeagueID          PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612762   2015       00      Joe Ingles   2        F    6-8    226   
+1   1610612762   2015       00      Trey Burke   3        G    6-1    191   
+2   1610612762   2015       00     Rodney Hood   5        G    6-8    206   
+3   1610612762   2015       00    Shelvin Mack   8        G    6-3    203   
+4   1610612762   2015       00      Alec Burks  10        G    6-6    214   
+5   1610612762   2015       00      Dante Exum  11        G    6-6    190   
+6   1610612762   2015       00  Derrick Favors  15      F-C   6-10    265   
+7   1610612762   2015       00  Gordon Hayward  20        F    6-8    226   
+8   1610612762   2015       00    Tibor Pleiss  21        C    7-3    256   
+9   1610612762   2015       00   Chris Johnson  23        F    6-6    206   
+10  1610612762   2015       00     Jeff Withey  24        C    7-0    231   
+11  1610612762   2015       00       Raul Neto  25        G    6-1    179   
+12  1610612762   2015       00     Rudy Gobert  27        C    7-1    245   
+13  1610612762   2015       00   Trevor Booker  33        F    6-8    228   
+14  1610612762   2015       00      Trey Lyles  41        F   6-10    234   
+
+      BIRTH_DATE   AGE EXP        SCHOOL  PLAYER_ID  
+0   OCT 02, 1987  28.0   1          None     204060  
+1   NOV 12, 1992  23.0   2      Michigan     203504  
+2   OCT 20, 1992  23.0   1          Duke     203918  
+3   APR 22, 1990  26.0   4        Butler     202714  
+4   JUL 20, 1991  24.0   4      Colorado     202692  
+5   JUL 13, 1995  20.0   1          None     203957  
+6   JUL 15, 1991  24.0   5  Georgia Tech     202324  
+7   MAR 23, 1990  26.0   5        Butler     202330  
+8   NOV 02, 1989  26.0   R          None     202353  
+9   APR 29, 1990  26.0   3        Dayton     203187  
+10  MAR 07, 1990  26.0   2        Kansas     203481  
+11  MAY 19, 1992  24.0   R          None     203526  
+12  JUN 26, 1992  24.0   2        France     203497  
+13  NOV 25, 1987  28.0   5       Clemson     202344  
+14  NOV 05, 1995  20.0   R      Kentucky    1626168  "
+29,"        TeamID SEASON LeagueID           PLAYER NUM POSITION HEIGHT WEIGHT  \
+0   1610612764   2015       00     Jared Dudley   1        F    6-7    225   
+1   1610612764   2015       00        John Wall   2        G    6-4    195   
+2   1610612764   2015       00     Bradley Beal   3        G    6-5    207   
+3   1610612764   2015       00  Markieff Morris   5        F   6-10    245   
+4   1610612764   2015       00    Alan Anderson   6      F-G    6-6    220   
+5   1610612764   2015       00   Ramon Sessions   7        G    6-3    190   
+6   1610612764   2015       00     Jarell Eddie   8      G-F    6-7    218   
+7   1610612764   2015       00  Kelly Oubre Jr.  12        F    6-7    205   
+8   1610612764   2015       00    Marcin Gortat  13        C   6-11    240   
+9   1610612764   2015       00  Marcus Thornton  15      F-G    6-4    205   
+10  1610612764   2015       00   Garrett Temple  17        G    6-6    195   
+11  1610612764   2015       00       JJ Hickson  21      C-F    6-9    242   
+12  1610612764   2015       00  Otto Porter Jr.  22        F    6-8    198   
+13  1610612764   2015       00             Nene  42      F-C   6-11    250   
+14  1610612764   2015       00      Drew Gooden  90        F   6-10    250   
+
+      BIRTH_DATE   AGE EXP                SCHOOL  PLAYER_ID  
+0   JUL 10, 1985  30.0   8        Boston College     201162  
+1   SEP 06, 1990  25.0   5              Kentucky     202322  
+2   JUN 28, 1993  23.0   3               Florida     203078  
+3   SEP 02, 1989  26.0   4                Kansas     202693  
+4   OCT 16, 1982  33.0   6        Michigan State     101187  
+5   APR 11, 1986  30.0   8                Nevada     201196  
+6   OCT 30, 1991  24.0   R         Virginia Tech     204067  
+7   DEC 09, 1995  20.0   R                Kansas    1626162  
+8   FEB 17, 1984  32.0   8          Lodz, Poland     101162  
+9   JUN 05, 1987  29.0   6       Louisiana State     201977  
+10  MAY 08, 1986  30.0   5       Louisiana State     202066  
+11  SEP 04, 1988  27.0   7  North Carolina State     201581  
+12  JUN 03, 1993  23.0   2            Georgetown     203490  
+13  SEP 13, 1982  33.0  13    Sao Carlos, Brazil       2403  
+14  SEP 24, 1981  34.0  13                Kansas       2400  "
